@@ -1,0 +1,7 @@
+#gitignore file
+.mvn
+.settings
+target
+.classpath
+.project
+mvnw*
